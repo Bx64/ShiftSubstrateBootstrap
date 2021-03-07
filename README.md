@@ -5,5 +5,5 @@ Bootstrap files for Shift testnet (Substrate-based) validator nodes.
 
 - Stop your validator service
 - `cd ~/shift-substrate/validator-chain/chains/shift-testnet/`
-- `git clone https://github.com/Bx64/ShiftSubstrateBootstrap db`
+- `git clone https://github.com/Bx64/shift-substrate-bootstrap db`
 - Restart your validator service
