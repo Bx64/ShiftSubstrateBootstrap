@@ -1,5 +1,5 @@
-# ShiftSubstrateBootstrap
-Bootstrap files for Shift testnet (Substrate-based)
+# Shift Substrate Bootstrap (validator node)
+Bootstrap files for Shift testnet (Substrate-based) validator nodes.
 
 ## Instructions:
 
